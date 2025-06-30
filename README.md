@@ -4,7 +4,7 @@
 
 *NAME*: SANDEEP YADAV
 
-*INTERN ID*: 
+*INTERN ID*: CT04DF402
 
 *DOMAIN*: FRONT END DEVELOPMENT
 
@@ -25,3 +25,7 @@ From a technical perspective, the frontend is built using HTML and CSS for struc
 Security and data privacy are crucial considerations. The application uses encrypted connections, stores passwords securely, and implements basic input validation to reduce risks like XSS and injection attacks.
 
 In conclusion, this real-time chat application project not only demonstrates the principles of real-time data transfer using WebSockets but also emphasizes building secure, scalable, and user-friendly web applications. It serves as a solid foundation for more advanced features, such as private messaging, multiple chat rooms, video calls, or integration with AI-based chatbots. Through this project, developers gain valuable experience in full-stack development, asynchronous programming, and responsive web design, making it a comprehensive and practical learning experience.
+
+#Output
+
+![Image](https://github.com/user-attachments/assets/af961d2d-b239-499b-b816-f16c0a828762)
